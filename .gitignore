@@ -1,3 +1,23 @@
+# ==========================================================
+# QA Engineering / Test Automation
+# ==========================================================
+
+# Playwright
+playwright-report/
+test-results/
+blob-report/
+
+# Screenshots, videos and traces
+test-results/**/*.png
+test-results/**/*.webm
+test-results/**/*.zip
+
+# Coverage reports
+coverage/
+htmlcov/
+
+
+
 # Logs
 logs
 *.log
@@ -67,8 +87,13 @@ web_modules/
 
 # dotenv environment variable files
 .env
+.env.local
 .env.*
 !.env.example
+
+# IDE files
+.vscode/
+.idea/
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -141,3 +166,7 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# OS files
+.DS_Store
+Thumbs.db

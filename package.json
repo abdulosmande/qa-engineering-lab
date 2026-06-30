@@ -1,0 +1,32 @@
+{
+  "name": "qa-engineering-lab",
+  "version": "1.0.0",
+  "description": "Hands-on QA engineering portfolio demonstrating practical experience in test automation, quality engineering, API testing, accessibility testing, contract testing, and CI/CD workflows.\r ![Playwright Tests](https://github.com/abdulosmande/qa-engineering-lab/actions/workflows/playwright.yml/badge.svg)\r ![API Tests](https://github.com/abdulosmande/qa-engineering-lab/actions/workflows/api-tests.yml/badge.svg)\r ![Accessibility](https://github.com/abdulosmande/qa-engineering-lab/actions/workflows/accessibility.yml/badge.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulosmande/qa-engineering-lab.git"
+  },
+  "keywords": [
+    "qa",
+    "quality-assurance",
+    "software-testing",
+    "playwright",
+    "typescript",
+    "api-testing",
+    "accessibility",
+    "contract-testing",
+    "automation-testing",
+    "ci-cd"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abdulosmande/qa-engineering-lab/issues"
+  },
+  "homepage": "https://github.com/abdulosmande/qa-engineering-lab#readme"
+}
